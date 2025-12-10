@@ -252,7 +252,7 @@ footer {
   .todo-card {
     padding: 1.25rem 1rem;
     border-radius: 1rem;
-    max-width: 420px;
+    max-width: px;
   }
 
   .todo-header h1 {
